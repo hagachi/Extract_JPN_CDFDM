@@ -1,0 +1,10 @@
+# data
+data
+output
+document
+
+# Site info
+*.json
+
+# Mac
+*.DS_Store
