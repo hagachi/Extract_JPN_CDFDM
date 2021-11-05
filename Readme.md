@@ -33,3 +33,14 @@ julia extract_site.jl
 
 ### 3. Check output files
 Output files will be appeared in ./output/yyyy-mm-dd/
+
+
+## Environment
+### Mac
+```zsh
+brew install nco
+```
+
+### Windows
+- Download and Install NCO from http://nco.sourceforge.net/
+    - Microsoft Windows (version 9 and earlier) (native build, compiled with Visual Studio 2019, use this if unsure)
